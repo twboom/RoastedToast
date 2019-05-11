@@ -1,3 +1,26 @@
-h1 {
-  color: red;
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+
+#banner {
+  width: 100vw;
+  background-color: #f8f1a3;
+  height: 25vh;
+}
+
+#banner > img {
+  float: left;
+  height: 20vh;
+  padding-top: 2.5vh;
+  padding-left: 10vh;
+}
+
+#banner > h1 {
+  text-align: center;
+  padding-top: 2.5vh;
+  padding-right: 30vh;
+  font-family: "Open Sans";
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
 }
