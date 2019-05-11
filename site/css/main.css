@@ -24,3 +24,9 @@ body {
   margin: 0;
   overflow: hidden;
 }
+
+p {
+  font-family: "Open Sans";
+  font-size: 2vh;
+  padding-left: 30vh;
+}
