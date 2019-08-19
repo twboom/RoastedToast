@@ -1,0 +1,15 @@
+<html>
+
+  <head>
+    <title>RoastedToast</title>
+    <link href="css/main.css" rel="stylesheet"></link>
+  </head>
+
+  <body>
+    <div id="banner">
+      <img src="assets/logo.jpg" />
+      <h1>Custom Recipes</h1>
+    </div>
+  </body>
+
+</html>
