@@ -9,12 +9,15 @@
 #banner {
   width: 100vw;
   background-color: #f8f1a3;
-  height: 25vh;
+
+height: 25vh;
+padding-top: 2.5vh;
 }
 
 #banner > img {
   float: left;
   height: 20vh;
+  padding-top: 2.5vh;
   padding-left: 10vh;
 }
 
