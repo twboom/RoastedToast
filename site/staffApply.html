@@ -31,10 +31,9 @@
     <label>Your Email: <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Kind of Staff: </label>
-    <select id = "kind">
-      <option value = "builder">Builder</option>
-      <option value = "helper">Helper</option>
+    <label>Staff kind: <select name="role[]" multiple>
+      <option value="helper">Helper</option>
+      <option value="builder">Builder</option>
   </p>
   <p>
     <label>Tell us about yourself: <textarea name="message"></textarea></label>
