@@ -9,3 +9,5 @@
 * 'home' Homepage: /home
 * 'customRecipes' Custom recipes page: /customrecipes
 * 'staffApply' Staffapply page: /staffapply
+## TODO
+* Make a site-wide menu bar (TiagoDeveloping)
