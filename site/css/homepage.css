@@ -22,7 +22,7 @@ p#infotext-middle {
   font-size: 16px;
   position: absolute;
   background-color: rgb(0, 0, 0, .26);
-  color: black;
+  color: grey;
   display: block;
   float: left;
   margin: 0 auto;
@@ -32,4 +32,8 @@ p#infotext-middle {
 
   left: 18%;
   margin-left: -18px;
+}
+
+p#content {
+  color: grey;
 }

@@ -18,7 +18,7 @@
 li#button {
     border-radius: 20px;
     float: left;
-    background-color: 333333;
+    background-color: #333333;
     display: block;
     color: grey;
     font-size: 14px;
@@ -31,11 +31,12 @@ li#button {
     margin-left: 0.61vh;
     margin-right: 0.61vh;
     text-decoration: none;
+    opacity: .7;
 }
 
 a#context {
     display: block;
-    color: white;
+    color: rgb(160, 160, 160);
     font-size: 14px;
     padding-left: 1.97vh;
     padding-right: 1.97vh;
