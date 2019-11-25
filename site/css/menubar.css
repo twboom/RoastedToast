@@ -1,41 +1,41 @@
 ul {
-    height: 40px;
+    height: 4.91vh;
     list-style-type: none;
     overflow: hidden;
     position: absolute;
-    top: 20px;
+    top: 2.46vh;
     margin: 0;
-    margin-top: 26px;
+    margin-top: 3.19vh;
     padding-left: 25%;
     font-family: "Open Sans";
 }
 
 li#button {
-    border-radius: 40px;
+    border-radius: 4.91vh;
     float: left;
     background-color: 333333;
     display: block;
     color: grey;
-    font-size: 14px;
-    height: 30px;
-    padding-left: 16px;
-    padding-right: 16px;
-    padding-top: 3px;
+    font-size: 1.72vh;
+    height: 3.69vh;
+    padding-left: 1.97vh;
+    padding-right: 1.79vh;
+    padding-top: 0.36vh;
     padding-bottom: 0px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 0.61vh;
+    margin-right: 0.61vh;
     text-decoration: none;
 }
 
 a#context {
     display: block;
     color: white;
-    font-size: 14px;
-    padding-left: 16px;
-    padding-right: 16px;
-    padding-top: 3px;
+    font-size: 1.72vh;
+    padding-left: 1.97vh;
+    padding-right: 1.97vh;
+    padding-top: 0.36vh;;
     padding-bottom: 0px;
-    height: 30px;
+    height: 3.69vh;;
     text-decoration: none;
 }
 
