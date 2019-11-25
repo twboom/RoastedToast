@@ -3,10 +3,15 @@
     list-style-type: none;
     overflow: hidden;
     position: absolute;
-    top: 2.46vh;
-    margin: 0;
-    margin-top: 3.19vh;
-    padding-left: 25%;
+
+    margin: 0 auto;
+
+    top: 7%;
+    margin-top: -7px;
+    
+    left: 20%;
+    margin-left: -20px;
+
     font-family: "Open Sans";
 }
 
