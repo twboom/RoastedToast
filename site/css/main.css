@@ -37,7 +37,7 @@ body {
 
 p {
   font-family: "Open Sans";
-  font-size: 1.97vh;
+  font-size: 16px;
 }
 
 .title {
@@ -47,12 +47,34 @@ p {
   
 }
 
+p#infotext-top {
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-bottom: 1.2px;
+}
+
+p#infotext-bottom {
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-top: 1.2px;
+}
+
+p#infotext-middle {
+  margin-top: 1.2px;
+  margin-bottom: 1.2px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
 .info {
   font-family: "Open Sans";
-  font-size: 1.97vh;
-  margin-top: 14.98vh;
-  margin-left: 14.98vh;
-  margin-right: 81.08vh;
+  font-size: 16px;
+  margin-top: 38vh;
+  margin-left: 45vh;
+  background-color: rgb(0, 0, 0, .26);
+  color: black;
+  display: block;
+  float: left;
 }
 
 .websiteName {
@@ -70,4 +92,34 @@ p {
   padding: 0;
   height: 15.72vh;
   width: 15.72vh;
+}
+
+.ip-container {
+  font-family: "Open Sans";
+  font-size: 16px;
+  float: left;
+  margin-left: 138vh;
+  margin-top: 4.8vh;
+  padding: 0;
+  padding-left: 8.4px;
+  padding-right: 8.4px;
+  display: block;
+  list-style-type: none;
+  overflow: hidden;
+  position: absolute;
+  background-color: rgb(0, 0, 0, .64);
+  color: black;
+  border: hidden;
+  border-radius: 5vh;
+}
+
+#li-ip-logo {
+  margin: 0;
+  margin-top: 12px;
+  float: left;
+}
+
+#li-ip-ip {
+  float: left;
+  color: white;
 }

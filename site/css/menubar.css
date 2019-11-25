@@ -1,5 +1,5 @@
-ul {
-    height: 4.91vh;
+.menubar {
+    height: 40px;
     list-style-type: none;
     overflow: hidden;
     position: absolute;
@@ -11,13 +11,13 @@ ul {
 }
 
 li#button {
-    border-radius: 4.91vh;
+    border-radius: 20px;
     float: left;
     background-color: 333333;
     display: block;
     color: grey;
-    font-size: 1.72vh;
-    height: 3.69vh;
+    font-size: 14px;
+    height: 30px;
     padding-left: 1.97vh;
     padding-right: 1.79vh;
     padding-top: 0.36vh;
@@ -30,12 +30,12 @@ li#button {
 a#context {
     display: block;
     color: white;
-    font-size: 1.72vh;
+    font-size: 14px;
     padding-left: 1.97vh;
     padding-right: 1.97vh;
     padding-top: 0.36vh;;
     padding-bottom: 0px;
-    height: 3.69vh;;
+    height: 30px;
     text-decoration: none;
 }
 
