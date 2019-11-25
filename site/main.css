@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+
+#topBeam {
+  width: 100vw;
+  height: 40px;
+}
+
+#banner {
+  width: 100vw;
+  background-color: #f8f1a3;
+  height: 204px;
+  padding-top: 20px;
+}
+
+#banner > img {
+  float: left;
+  height: 162.8px;
+  padding-top: 20px;
+  padding-left: 80px;
+}
+
+#banner > h1 {
+  text-align: center;
+  padding-right: 80px;
+  font-family: "Open Sans";
+}
+
+#staffApply {
+  background-color: #d9d9d9;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background-image: url('../background.png');
+}
+
+p {
+  font-family: "Open Sans";
+  font-size: 16px;
+}
+
+.title {
+  position: absolute;
+  padding-left: 10px;
+  padding-top: 10px;
+  
+}
+
+.info {
+  font-family: "Open Sans";
+  font-size: 16px;
+  margin-top: 122;
+  margin-left: 122;
+  margin-right: 660px;
+}
+
+.logo {
+  margin-top: 280px;
+  margin-left: 500px;
+}

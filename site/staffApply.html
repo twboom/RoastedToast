@@ -4,6 +4,7 @@
     <title>Staff Apply - RoastedToast</title>
     <link href="css/main.css" rel="stylesheet"></link>
     <link href="css/menubar.css" rel="stylesheet"></link>
+    <script src="assets/mail.js"></script>
   </head>
 
   <body>
@@ -28,52 +29,48 @@
                   </li>
                 </ul>
           </div>
-      
-          <div id="banner">
-            <img src="assets/logo.jpg" />
-            <h1>RoastedToast</h1>
-          </div>
+          <h1>RoastedToast</h1>
         </header>
 
-    <p>If you want to be staff on the RoastedToast server, please make an apply here.<p>
+    <p class="infotext">If you want to be staff on the RoastedToast server, please do a apply here.<p>
 
     <div id="staffApply-form">
 
     <form name="staffApply" method="POST" data-netlify="true">
 
-  <p>
+  <p class="infotext">
     <label>Your first name: <input type="text" name="name" /></label>
   </p>
   
-  <p>
+  <p class="infotext">
     <label>Your surname: <input type="text" name="surname" /></label>
   </p>
 
-  <p>
+  <p class="infotext">
     <label>Date of birth: <input type="date" name="birthday" /></label>
   </p>
 
-  <p>
+  <p class="infotext">
     <label>Your Email: <input type="email" name="email" /></label>
   </p>
 
-  <p>
+  <p class="infotext">
     <label>Staff kind: <select name="kind" multiple>
       <option value="helper">Helper</option>
       <option value="builder">Builder</option>
       </select></label>
   </p>
 
-  <p>
+  <p class="infotext">
     <label>Tell us about yourself: <textarea name="introduction"></textarea></label>
   </p>
 
-  <p>
+  <p class="infotext">
     <label>Why should we choose you? <textarea name="message"></textarea></label>
   </p>
 
-  <p>
-    <button type="submit">Send</button>
+  <p class="infotext">
+    <button onclick="send()" type="submit">Send</button>
   </p>
 
 </form>
