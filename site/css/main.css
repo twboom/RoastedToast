@@ -83,8 +83,8 @@ p {
   
   left: 88%;
   margin-left: -88px;
-  top: 5.4%;
-  margin-top: -5.4px;
+  top: 5.5%;
+  margin-top: -5.5px;
 
   padding: 0;
   padding-left: 8.4px;
@@ -94,9 +94,8 @@ p {
   list-style-type: none;
   overflow: hidden;
   position: absolute;
-  background-color: #333333;
-  opacity: .7;
-  color: grey;
+  background-color: rgb(51, 51, 51, .7);
+  color: rgb(153, 153, 153);;
   border: hidden;
   border-radius: 5vh;
 }
@@ -109,5 +108,5 @@ p {
 
 #li-ip-ip {
   float: left;
-  color: rgb(160, 160, 160, .7);
+  color: rgb(153, 153, 153);
 }
