@@ -1,0 +1,35 @@
+p#infotext-top {
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-bottom: 1.2px;
+}
+
+p#infotext-bottom {
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-top: 1.2px;
+}
+
+p#infotext-middle {
+  margin-top: 1.2px;
+  margin-bottom: 1.2px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.info {
+  font-family: "Open Sans";
+  font-size: 16px;
+  position: absolute;
+  background-color: rgb(0, 0, 0, .26);
+  color: black;
+  display: block;
+  float: left;
+  margin: 0 auto;
+
+  top: 45%;
+  margin-top: -45px;
+
+  left: 18%;
+  margin-left: -18px;
+}

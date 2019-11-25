@@ -9,8 +9,8 @@
     top: 7%;
     margin-top: -7px;
     
-    left: 20%;
-    margin-left: -20px;
+    left: 15%;
+    margin-left: -15px;
 
     font-family: "Open Sans";
 }
@@ -23,6 +23,7 @@ li#button {
     color: grey;
     font-size: 14px;
     height: 30px;
+    margin: 0 auto;
     padding-left: 1.97vh;
     padding-right: 1.79vh;
     padding-top: 0.36vh;
