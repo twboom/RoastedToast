@@ -79,10 +79,9 @@ p#infotext-middle {
 
 .websiteName {
   font-family: "Open Sans";
-  margin: 0;
   margin-top: 70.5vh;
-  margin-bottom: 1vh;
   margin-left: 0.72%;
+  padding-bottom: 1vh;
   color: rgb(226, 187, 120, .90);
   filter: blur(2.5px);
   font-size: 90px;
