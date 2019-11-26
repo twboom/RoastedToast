@@ -47,22 +47,3 @@ li#button:hover {
     background-color: #252525;
     transform: scale(1.05);
 }
-
-@media screen and (max-width: 10cm) {
-    a#context {
-        display: block;
-        color: rgb(153,153,153);
-        font-size: 14px;
-        padding-left: 1.97vh;
-        padding-right: 1.97vh;
-        padding-top: 0.36vh;;
-        padding-bottom: 0px;
-        height: 30px;
-        text-decoration: none;
-    }
-    
-    li#button {
-        margin-top: 5px;
-        float:none;
-    }
-}
