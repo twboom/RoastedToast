@@ -31,7 +31,7 @@ li#button {
     text-decoration: none;
 }
 
-@media (pointer:none) {
+@media only screen and (max-device-width: 480px) {
     .menubar {
         list-style-type: none;
         overflow: hidden;
