@@ -21,7 +21,7 @@ p#infotext-middle {
   font-family: "Open Sans";
   font-size: 16px;
   position: absolute;
-  background-color: rgb(0, 0, 0, .26);
+  background-color: rgba(0, 0, 0, .26);
   color: rgb(153, 153, 153);
   display: block;
   float: left;

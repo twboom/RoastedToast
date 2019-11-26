@@ -104,7 +104,7 @@ subtitle {
 
 .our-info {
   font-family: "Open Sans";
-  background-color: rgb(0, 0, 0, .26);
+  background-color: rgba(0, 0, 0, .26);
   float: left;
   display: block;
   color: rgb(153, 153, 153);
@@ -120,3 +120,4 @@ subtitle {
   padding-left: 12px;
   padding-right: 12px;
 }
+
