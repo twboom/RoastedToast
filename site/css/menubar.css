@@ -31,7 +31,7 @@ li#button {
     text-decoration: none;
 }
 
-@media only screen and (max-width: 70mm) {
+@media only screen and (max-width: 140mm) {
     .menubar {
         list-style-type: none;
         width: 100%;
