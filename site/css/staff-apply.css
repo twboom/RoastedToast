@@ -81,7 +81,9 @@ subtitle {
 
 .type-selection {
   background-color: rgb(0, 0, 0, .26);
-  border: none;
+  border: hidden;
+  -webkit-appearance: none;
+  border-radius: 0px;
   
   color: rgb(153, 153, 153);
   position: relative;
