@@ -37,6 +37,7 @@ li#button {
         overflow: hidden;
         position: absolute;
     
+        float: none;
         margin: 0 auto;
     
         top: 7%;
