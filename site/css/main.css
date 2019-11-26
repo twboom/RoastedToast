@@ -34,6 +34,7 @@ body {
   margin: 0;
   overflow: hidden;
   background: url('background.png') center;
+  background-size: auto;
   height: 100%;
   width: 100%;
 }
