@@ -1,7 +1,79 @@
-#title {
-    color: black;
-    font-size: 26px;
+.images {
+    display: block;
     position: absolute;
-    padding-left: 25px;
-    top: 256px;
+    margin: 0;
+    left: 18%;
+    margin-left: -18px;
+    top: 23%;
+    margin-top: -23px;
+
+    padding: 6%;
+    margin-right: 3%;
+
+    background-color: rgba(0, 0, 0, 0.23);
+}
+
+.obsidian-title {
+    color: rgb(153, 153, 153);
+    padding: 1px;
+    text-decoration: underline;
+    text-decoration-color: rgba(82, 11, 116, 0.78);
+}
+
+.emerald-title {
+    color: rgb(153, 153, 153);
+    padding: 1px;
+    text-decoration: underline;
+    text-decoration-color: rgba(26, 100, 26, 0.78);
+}
+
+.lapis-title {
+    color: rgb(153, 153, 153);
+    padding: 1px;
+    text-decoration: underline;
+    text-decoration-color: rgba(22, 11, 116, 0.78);
+}
+
+.redstone-title {
+    color: rgb(153, 153, 153);
+    padding: 1px;
+    text-decoration: underline;
+    text-decoration-color: rgba(194, 11, 11, 0.78);
+}
+
+.emerald {
+    display: block;
+    position: relative;
+    padding: 1.6%;
+    background-color: rgba(26, 100, 26, 0.46);
+}
+
+.obsidian {
+    position: relative;
+    padding: 1.6%;
+    background-color: rgba(82, 11, 116, 0.46);
+}
+
+.redstone {
+    position: relative;
+    padding: 1.6%;
+    background-color: rgba(194, 11, 11, 0.46);
+}
+
+.lapis {
+    position: relative;
+    padding: 1.6%;
+    background-color: rgba(22, 11, 116, 0.46);
+}
+
+.content {
+    position: relative;
+    border: 4px solid rgba(0, 0, 0, 0.23);
+    border-radius: 5px;;
+}
+
+.image-info {
+    position: relative;
+    margin: 0 auto;
+    padding: 0 auto;
 }
