@@ -102,4 +102,7 @@ subtitle {
 
   padding-left: 12px;
   padding-right: 12px;
+
+  border: hidden;
+  border-radius: 10px;
 }
