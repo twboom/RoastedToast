@@ -7,7 +7,7 @@
 
     top: 7%;
     margin-top: -7px;
-    
+
     left: 15%;
     margin-left: -15px;
 
@@ -29,6 +29,7 @@ li#button {
     margin-left: 0.61vh;
     margin-right: 0.61vh;
     text-decoration: none;
+    transition: 0.5s;
 }
 
 a#context {
