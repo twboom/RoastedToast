@@ -8,19 +8,19 @@ subtitle {
     color: rgb(153, 153, 153);;
     font-weight: 400;
   }
-  
+
 .subtitle {
     margin: 0px;
     margin-left: 4.42vh;
     padding: 0px;
     font-family: "Open Sans";
-    color: rgb(153, 153, 153);;
+    color: rgb(255, 255, 255);
     font-weight: 900;
   }
-  
+
 .contactform {
     position: absolute;
-/*    border-right: 4.5px solid rgb(0, 0, 0, .5); 
+/*    border-right: 4.5px solid rgb(0, 0, 0, .5);
     padding-top: 1.2%;
     padding-bottom: 3.6%;
     padding-right: 1.2%;
@@ -30,7 +30,7 @@ subtitle {
 
     top: 35%;
     margin-top: -35px;
-    
+
     left: 15.6%;
     margin-left: -15.6px;
 
@@ -42,7 +42,7 @@ subtitle {
   border-radius: 4.91vh;
   background-color: 333333;
   display: block;
-  color: rgb(153, 153, 153);;
+  color: rgb(255, 255, 255);
   font-size: 1.72vh;
   height: 3.69vh;
   padding-left: 1.97vh;
@@ -89,7 +89,7 @@ subtitle {
   background-color: rgba(0, 0, 0, .26);
   float: left;
   display: block;
-  color: rgb(153, 153, 153);;
+  color: rgb(255, 255, 255);
   position: absolute;
   margin: 0 auto;
 
