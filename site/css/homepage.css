@@ -5,7 +5,9 @@ p#infotext-top {
 }
 
 h1#infotext-top {
-  
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-top: 1.2px;
 }
 
 p#infotext-bottom {
