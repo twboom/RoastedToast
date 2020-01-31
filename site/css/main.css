@@ -44,6 +44,11 @@ p {
   font-size: 16px;
 }
 
+h1 {
+  font-family: "Open Sans";
+  font-size: 35px;
+}
+
 .title {
   position: absolute;
   padding-left: 1.23vh;
