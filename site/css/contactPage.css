@@ -5,7 +5,7 @@ subtitle {
     margin-left: 4.42vh;
     padding: 0px;
     font-family: "Open Sans";
-    color: rgb(153, 153, 153);;
+    color: rgb(255, 255, 255);;
     font-weight: 400;
   }
 
@@ -51,6 +51,7 @@ subtitle {
   padding-bottom: 0px;
   border: hidden;
   text-decoration: none;
+  transition: 0.5s;
 }
 
 .submitButton:hover {
