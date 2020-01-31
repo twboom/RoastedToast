@@ -14,28 +14,28 @@
 }
 
 .obsidian-title {
-    color: rgb(153, 153, 153);
+    color: rgb(255, 255, 255);
     padding: 1px;
     text-decoration: underline;
     text-decoration-color: rgba(82, 11, 116, 0.78);
 }
 
 .emerald-title {
-    color: rgb(153, 153, 153);
+    color: rgb(255, 255, 255);
     padding: 1px;
     text-decoration: underline;
     text-decoration-color: rgba(26, 100, 26, 0.78);
 }
 
 .lapis-title {
-    color: rgb(153, 153, 153);
+    color: rgb(255, 255, 255);
     padding: 1px;
     text-decoration: underline;
     text-decoration-color: rgba(22, 11, 116, 0.78);
 }
 
 .redstone-title {
-    color: rgb(153, 153, 153);
+    color: rgb(255, 255, 255);
     padding: 1px;
     text-decoration: underline;
     text-decoration-color: rgba(194, 11, 11, 0.78);
