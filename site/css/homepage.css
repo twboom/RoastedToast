@@ -32,4 +32,7 @@ p#infotext-middle {
 
   left: 18.45%;
   margin-left: -18.45px;
+
+  border: hidden;
+  border-radius: 10px;
 }
