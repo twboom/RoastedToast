@@ -51,24 +51,28 @@
     position: relative;
     padding: 1.6%;
     background-color: rgba(26, 100, 26, 0.46);
+    margin-top: 2vh;
 }
 
 .obsidian {
     position: relative;
     padding: 1.6%;
     background-color: rgba(82, 11, 116, 0.46);
+    margin-top: 2vh;
 }
 
 .redstone {
     position: relative;
     padding: 1.6%;
     background-color: rgba(194, 11, 11, 0.46);
+    margin-top: 2vh;
 }
 
 .lapis {
     position: relative;
     padding: 1.6%;
     background-color: rgba(22, 11, 116, 0.46);
+    margin-top: 2vh;
 }
 
 .content {
