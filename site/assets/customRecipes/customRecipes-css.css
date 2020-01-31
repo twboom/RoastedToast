@@ -52,6 +52,8 @@
     padding: 1.6%;
     background-color: rgba(26, 100, 26, 0.46);
     margin-top: 2vh;
+    border: 2px transparent;
+    border-radius: 20px;
 }
 
 .obsidian {
@@ -59,6 +61,8 @@
     padding: 1.6%;
     background-color: rgba(82, 11, 116, 0.46);
     margin-top: 2vh;
+    border: 2px transparent;
+    border-radius: 20px;
 }
 
 .redstone {
@@ -66,6 +70,8 @@
     padding: 1.6%;
     background-color: rgba(194, 11, 11, 0.46);
     margin-top: 2vh;
+    border: 2px transparent;
+    border-radius: 20px;
 }
 
 .lapis {
@@ -73,6 +79,8 @@
     padding: 1.6%;
     background-color: rgba(22, 11, 116, 0.46);
     margin-top: 2vh;
+    border: 2px transparent;
+    border-radius: 20px;
 }
 
 .content {
