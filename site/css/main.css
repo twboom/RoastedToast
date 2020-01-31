@@ -97,6 +97,11 @@ p {
   color: rgb(255, 255, 255);
   border: hidden;
   border-radius: 5vh;
+  transition: 0.5s;
+}
+
+.ip-container:hover {
+  transform: scale(1.2);
 }
 
 #li-ip-logo {
