@@ -46,6 +46,7 @@ subtitle {
   padding-bottom: 0px;
   border: hidden;
   text-decoration: none;
+  transition: 0.5s;
 }
 
 .submitButton:hover {
